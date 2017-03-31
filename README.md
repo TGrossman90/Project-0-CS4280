@@ -6,7 +6,7 @@ Project 0
 02/27/17  
 Copyright © 2017 Tom Grossman. All Rights Reserved.  
 
-Usage:  
+## Usage:  
 	Project can be executed 4 ways:  
 		1) ./p0   
 		2) ./p0 < [filename.ext]  
